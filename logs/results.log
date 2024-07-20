@@ -1,0 +1,14 @@
+root - INFO - Read file successfully.
+root - INFO - Successfully encoded columns.
+root - INFO - Successfully performed EDA.
+root - INFO - Successfully performed feature engineering.
+root - INFO - Successfully generated report image.
+root - INFO - Successfully generated report image.
+root - INFO - Successfully generated report image.
+root - INFO - Successfully generated report image.
+root - INFO - Successfully created classification report images.
+root - INFO - Successfully created feature importance plot.
+root - INFO - Successfully created ROC curve.
+root - INFO - Successfully created ROC curve.
+root - INFO - Successfully trained models.
+root - INFO - All functions executed successfully.
